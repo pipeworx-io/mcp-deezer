@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-deezer",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Deezer MCP — public catalog (no auth required).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-f4861faf9748e04c4d7f25eaff3bf5786e73783a94b2dba0a92619eaed25a45a",
-    "sourceCommit": "5749f83c0ea115fab4c0c0ef04b66b05f2507d67"
+    "sourceHash": "v1-c468d045beb740654714d26a090ea16b916ff0013e20710a1a283df689a239a2",
+    "sourceCommit": "29fb434ca65fe0f61191f19c3502f583f5fb99d7"
   }
 }
